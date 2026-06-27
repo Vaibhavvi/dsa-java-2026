@@ -26,8 +26,8 @@ dsa-java-2026/
   - BinarySearch.java
 
 - Arrays-II/
-  - problems/
-  - notes.md
+  - SubArray.java
+  - TrappingRainWater.java
 
 - Strings/
 - LinkedList/
@@ -54,7 +54,8 @@ dsa-java-2026/
 ## 🎯 Current Progress
 
 - Arrays-I Completed
-- Arrays-II In Progress
+- Arrays-II In Completed
+- 2D Array Progress
 - Strings Upcoming
 - Linked List Upcoming
 - Stack & Queue Upcoming
