@@ -27,8 +27,34 @@ public class ArrayAdvance{
         }
         return trappedWater;
     }
+
+    // Problem 02 -- Twice of a Number in an Array
+    public static boolean checkTwice(int arr[]){
+        for(int i=0; i<arr.length; i++){
+            for(int j=i+1; j<arr.length; j++){
+                if( arr[i] == 2*arr[j] || arr[j] == 2*arr[i]){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    // Probelm 03 --- Contain Duplicate with Brute Force 
+    public static boolean checkDuplicate(int arr[]){
+        //Traverse the array and check for duplicates
+        for(int i=0; i<arr.length; i++){
+            for(int j=i+1; j<arr.length; j++){
+                if(arr[i] == arr[j]){
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
     public static void main(String[] args){
-        int arr[] = { 4,2,0,6,3,2,5 };
-        System.out.println("Trapped Rain Water:" + trappedRainWater(arr));
+        int arr[] = {0,1,2,3,4,5};
+        System.out.println(checkDuplicate(arr));
+
     }
 }
