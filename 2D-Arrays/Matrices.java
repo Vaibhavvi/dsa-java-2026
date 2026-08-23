@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Matrices {
     // Method to find element index
     public static void keySearch(int arr[][], int key) {
@@ -72,15 +70,18 @@ public class Matrices {
     }
 
     // Method to print Sum of Diagonal
-    public static int diagonalSum(int[][] matrix) {
+    public static int diagonalSum(int matrix[][]){
         int sum = 0;
 
-        // Traverse the Loop
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
-                if (i == j) {
+        //Traverse the array
+        for(int i=0; i<matrix.length; i++){
+            for(int j=0; j<matrix[0].length; j++){
+                //1st Diagonal
+                if(i==j){
                     sum += matrix[i][j];
-                } else if (i + j == matrix.length - 1){
+                }else if
+                //2nd Diagonal
+                (i+j == matrix.length-1){
                     sum += matrix[i][j];
                 }
             }
