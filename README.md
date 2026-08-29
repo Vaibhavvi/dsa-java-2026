@@ -20,16 +20,12 @@ This repository contains:
 dsa-java-2026/
 
 - Arrays-I/
-  - PairsArray.java
-  - ReverseArray.java
-  - LargestNumber.java
-  - BinarySearch.java
-
 - Arrays-II/
-  - SubArray.java
-  - TrappingRainWater.java
-
+- 2D-Arrays/
 - Strings/
+- Bit-Manipulation/
+- OOPs-Java/
+- Recursion/
 - LinkedList/
 - Stack-Queue/
 - Trees/
@@ -55,8 +51,12 @@ dsa-java-2026/
 
 - Arrays-I Completed
 - Arrays-II In Completed
-- 2D Array Progress
-- Strings Upcoming
+- 2D Array Completed
+- Strings Completed
+- Bit-Manipulation Completed
+- OOPs Java Progress
+- Recursion Basic-I Upcoming
+- Recursion Basic-II Upcoming
 - Linked List Upcoming
 - Stack & Queue Upcoming
 - Trees Upcoming
