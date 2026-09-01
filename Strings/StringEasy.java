@@ -1,5 +1,3 @@
-package Strings;
-
 // Easy Level Question of String
 
 public class StringEasy {

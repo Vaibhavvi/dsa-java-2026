@@ -1,7 +1,4 @@
-package Strings;
-
 // Basic Concept of String 
-
 
 public class BasicString {
     //Method to String traversal
