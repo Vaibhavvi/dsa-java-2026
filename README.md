@@ -54,9 +54,11 @@ dsa-java-2026/
 - 2D Array Completed
 - Strings Completed
 - Bit-Manipulation Completed
-- OOPs Java Progress
-- Recursion Basic-I Upcoming
-- Recursion Basic-II Upcoming
+- OOPs Java Progress Completed
+- Recursion Basic-I Completed
+- Recursion Basic-II Completed
+- Backtracking Completed
+- ArrayList Complete
 - Linked List Upcoming
 - Stack & Queue Upcoming
 - Trees Upcoming
