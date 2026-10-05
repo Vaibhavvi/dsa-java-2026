@@ -15,24 +15,6 @@ This repository contains:
 
 ---
 
-## 📁 Folder Structure
-
-dsa-java-2026/
-
-- Arrays-I/
-- Arrays-II/
-- 2D-Arrays/
-- Strings/
-- Bit-Manipulation/
-- OOPs-Java/
-- Recursion/
-- LinkedList/
-- Stack-Queue/
-- Trees/
-- Graphs/
-- Dynamic-Programming/
-
-
 ## 🧠 Topics Covered
 
 - Arrays (Basics → Advanced)
